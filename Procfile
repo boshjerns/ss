@@ -1,1 +1,1 @@
-web: npm run start
+Worker: node dist/main
